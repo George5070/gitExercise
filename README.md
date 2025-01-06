@@ -1,1 +1,1 @@
-# gitExercice
+# gitExercise
